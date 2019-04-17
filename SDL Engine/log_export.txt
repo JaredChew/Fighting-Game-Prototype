@@ -1,0 +1,4 @@
+[MESSAGE] 2019-02-02 00:32:01:	Initialising SDL
+[MESSAGE] 2019-02-02 00:32:02:	SDL drivers initialised
+[MESSAGE] 2019-02-02 00:32:02:	SDL window initialised
+[MESSAGE] 2019-02-02 00:32:02:	SDL renderer initialised
