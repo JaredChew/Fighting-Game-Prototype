@@ -1,5 +1,4 @@
-#Diploma Fighting Game Prototype
-
+# Diploma Fighting Game Prototype
 Test project using Honey Badger Engine
 
 Time to put Honey Badger to the test.
